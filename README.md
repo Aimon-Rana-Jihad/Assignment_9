@@ -43,8 +43,7 @@ Some examples of applications are shown below:
 4.  Perimeter,area of Upazila: Printed the perimeter and area of Fatikchhari.
 
 
-5.   
-Visualize the filtered Upazila: Showed Fatikchhari upazila on the map.
+5. Visualize the filtered Upazila: Showed Fatikchhari upazila on the map.
 
 
 
